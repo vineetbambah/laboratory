@@ -1,0 +1,14 @@
+.gitignore
+  h_c295a0d948c060 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "062674ce0ffdbba4a94113db6ee84e209c4f0b9d",
+  "prompts": {},
+  "humans": {
+    "h_c295a0d948c060": {
+      "author": "Vineet Bambah <vbambah@entnt.in>"
+    }
+  }
+}
