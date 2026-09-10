@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "48c51623892acf2b6eaf0ed197c0f219983315c8",
+  "prompts": {},
+  "humans": {
+    "h_c295a0d948c060": {
+      "author": "Vineet Bambah <vbambah@entnt.in>"
+    }
+  }
+}
