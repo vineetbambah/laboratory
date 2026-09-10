@@ -1,0 +1,18 @@
+machine-scoreboard/README.md
+  h_c295a0d948c060 1-15
+machine-scoreboard/variable_scoreboard.cpp
+  h_c295a0d948c060 1-37
+machine-scoreboard/fixed_scoreboard.cpp
+  h_c295a0d948c060 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cf03cf7acbe151fce15e33e7e096b7417d77594f",
+  "prompts": {},
+  "humans": {
+    "h_c295a0d948c060": {
+      "author": "Vineet Bambah <vbambah@entnt.in>"
+    }
+  }
+}
