@@ -1,0 +1,14 @@
+README.md
+  h_c295a0d948c060 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0b3fbbc0d9ffa6ec30659a2c725d970390a31d2a",
+  "prompts": {},
+  "humans": {
+    "h_c295a0d948c060": {
+      "author": "Vineet Bambah <vbambah@entnt.in>"
+    }
+  }
+}
