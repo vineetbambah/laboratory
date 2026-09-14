@@ -1,0 +1,14 @@
+machine-scoreboard/cheap_score.cpp
+  h_a370b10d845794 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "34a34d2374e58bef2c1fc412d21f11c58b39102d",
+  "prompts": {},
+  "humans": {
+    "h_a370b10d845794": {
+      "author": "Vineet Bambah <neozvbambah@gmail.com>"
+    }
+  }
+}
