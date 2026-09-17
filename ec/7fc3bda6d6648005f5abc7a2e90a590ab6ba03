@@ -1,0 +1,19 @@
+machine-scoreboard/variable_scoreboard.cpp
+  h_a370b10d845794 1,7-9,24,33-38,40,43
+  h_a370b10d845794 42,44
+machine-scoreboard/fixed_scoreboard.cpp
+  h_a370b10d845794 2,7-8
+machine-scoreboard/cheap_score.cpp
+  h_a370b10d845794 1-2,4-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ec7fc3bda6d6648005f5abc7a2e90a590ab6ba03",
+  "prompts": {},
+  "humans": {
+    "h_a370b10d845794": {
+      "author": "Vineet Bambah <neozvbambah@gmail.com>"
+    }
+  }
+}
