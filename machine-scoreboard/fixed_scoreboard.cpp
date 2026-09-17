@@ -1,10 +1,11 @@
 #include<iostream>
+#include<climits>
 using namespace std;
 int main(){
     string name;
     int total_score=0;
-    int highest = INT16_MIN;
-    int lowest = INT16_MAX; 
+    int highest = INT_MIN;
+    int lowest = INT_MAX;
     cin>> name;
     int scores[5];
     for(int i=0;i<5;i++){
